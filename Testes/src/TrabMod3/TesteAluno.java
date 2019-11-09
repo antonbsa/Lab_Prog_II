@@ -12,7 +12,9 @@ public class TesteAluno {
 	int indice = 0;
 	
 	FileReader fr 		= new FileReader(arquivo);
-	BufferedReader br 	= new BufferedReader(fr); 
+	BufferedReader br 	= new BufferedReader(fr);
+	
+	//Teste Git
 	
 	String linha;
 	while ((linha = br.readLine()) != null) {
