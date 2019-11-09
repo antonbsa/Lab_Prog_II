@@ -14,8 +14,6 @@ public class TesteAluno {
 	FileReader fr 		= new FileReader(arquivo);
 	BufferedReader br 	= new BufferedReader(fr);
 	
-	//Teste Git
-	
 	String linha;
 	while ((linha = br.readLine()) != null) {
 		String campos[] = linha.split(",");
