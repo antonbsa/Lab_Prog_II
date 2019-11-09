@@ -1,0 +1,4 @@
+Número de clientes atendidos: 59
+Tempo médio de espera na fila: 1.04
+Tempo máximo de espera na fila: 3
+Tamanho médio da fila: 0.49
