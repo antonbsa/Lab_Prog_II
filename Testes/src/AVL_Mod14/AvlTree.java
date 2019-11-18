@@ -84,6 +84,7 @@ public class AvlTree {
             System.out.println("Rotação Simples à Direita.");
             return k1;
         }
+        
 
         /** Rotação simples à esquerda */
         private static AvlNode doLeftRotation( AvlNode k1 ) {
